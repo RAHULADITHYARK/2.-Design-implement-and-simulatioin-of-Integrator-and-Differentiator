@@ -76,10 +76,9 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 
   **TABULATION:**
+<img width="426" height="1600" alt="image" src="https://github.com/user-attachments/assets/25525968-0830-4776-a67b-fb0f336e1ce2" />
 
-  <img width="473" height="811" alt="image" src="https://github.com/user-attachments/assets/0ea82e66-b1f6-4a3a-90c2-67b8f9fa3d06" />
 
- 
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
@@ -95,13 +94,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
   **TABULATION:**
 
-<img width="461" height="806" alt="image" src="https://github.com/user-attachments/assets/523f81ec-9b86-4540-b8db-666999b8660a" />
+<img width="1600" height="789" alt="image" src="https://github.com/user-attachments/assets/68894b36-45f9-4450-81b5-dde11ce5cc53" />
 
-  
  **Graph**
-<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 11 02 52 AM" src="https://github.com/user-attachments/assets/a9ef54f1-587b-4497-80dc-abf7e59cec30" />
-
- <img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 11 03 06 AM" src="https://github.com/user-attachments/assets/401dab79-34f1-4350-b78d-655e7e292bde" />
+<img width="1006" height="1307" alt="image" src="https://github.com/user-attachments/assets/fea396a6-fab7-4387-861f-cb5ba1a9cc24" />
+ <img width="1080" height="1294" alt="image" src="https://github.com/user-attachments/assets/0878fd33-d2f3-4339-a0e1-16d4e94d1b86" />
 
 
 **LT-SPICE Tool:PROCEDURE:**
