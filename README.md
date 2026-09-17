@@ -63,26 +63,46 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+  
+<img width="673" height="342" alt="image" src="https://github.com/user-attachments/assets/cb9bb860-2f76-498a-b894-eca11d8dfcc9" />
 
 
   **MODEL GRAPH:**
+  
+<img width="587" height="360" alt="image" src="https://github.com/user-attachments/assets/33902be2-5eb2-4096-9dc7-86ba4caca099" />
+
+<img width="762" height="472" alt="image" src="https://github.com/user-attachments/assets/3637de74-f46b-4bdb-8652-eaa203695036" />
+
 
 
   **TABULATION:**
- 
 
-**MODEL CALCULATION:**
+  <img width="473" height="811" alt="image" src="https://github.com/user-attachments/assets/0ea82e66-b1f6-4a3a-90c2-67b8f9fa3d06" />
+
+ 
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
+  
+  <img width="636" height="367" alt="image" src="https://github.com/user-attachments/assets/698594d6-e334-4800-b999-62f89b0dae79" />
+
 
 
   **MODEL GRAPH:**
+  
+<img width="451" height="552" alt="image" src="https://github.com/user-attachments/assets/03bef15d-041e-4f01-a83f-b3b754b77c66" />
 
 
   **TABULATION:**
 
- 
+<img width="461" height="806" alt="image" src="https://github.com/user-attachments/assets/523f81ec-9b86-4540-b8db-666999b8660a" />
+
+  
+ **Graph**
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 11 02 52 AM" src="https://github.com/user-attachments/assets/a9ef54f1-587b-4497-80dc-abf7e59cec30" />
+
+ <img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 11 03 06 AM" src="https://github.com/user-attachments/assets/401dab79-34f1-4350-b78d-655e7e292bde" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,6 +115,10 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 12 21 19 PM" src="https://github.com/user-attachments/assets/73f72204-c781-4ae1-8bf7-676cf2037c0f" />
+
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 12 21 24 PM" src="https://github.com/user-attachments/assets/495555f9-4e3c-4076-bdb1-fce983eefbfa" />
   
 
 **RESULT:**
